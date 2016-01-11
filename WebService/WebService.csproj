@@ -81,7 +81,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="App_Data\Checking.txt" />
     <Content Include="App_Data\UserLocation.txt" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />

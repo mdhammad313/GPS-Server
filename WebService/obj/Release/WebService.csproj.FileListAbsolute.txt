@@ -26,3 +26,31 @@ C:\Users\LaLa Gallery\documents\visual studio 2015\Projects\WebService\WebServic
 C:\Users\LaLa Gallery\documents\visual studio 2015\Projects\WebService\WebService\obj\Release\WebService.csprojResolveAssemblyReference.cache
 C:\Users\LaLa Gallery\documents\visual studio 2015\Projects\WebService\WebService\obj\Release\WebService.dll
 C:\Users\LaLa Gallery\documents\visual studio 2015\Projects\WebService\WebService\obj\Release\WebService.pdb
+D:\Projects\Web-Services\WebService\bin\roslyn\csc.exe
+D:\Projects\Web-Services\WebService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Projects\Web-Services\WebService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Projects\Web-Services\WebService\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Projects\Web-Services\WebService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Projects\Web-Services\WebService\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Projects\Web-Services\WebService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Projects\Web-Services\WebService\bin\roslyn\System.Collections.Immutable.dll
+D:\Projects\Web-Services\WebService\bin\roslyn\System.Reflection.Metadata.dll
+D:\Projects\Web-Services\WebService\bin\roslyn\vbc.exe
+D:\Projects\Web-Services\WebService\bin\roslyn\VBCSCompiler.exe
+D:\Projects\Web-Services\WebService\bin\roslyn\VBCSCompiler.exe.config
+D:\Projects\Web-Services\WebService\bin\WebService.dll.config
+D:\Projects\Web-Services\WebService\bin\WebService.dll
+D:\Projects\Web-Services\WebService\bin\WebService.pdb
+D:\Projects\Web-Services\WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Projects\Web-Services\WebService\bin\Newtonsoft.Json.dll
+D:\Projects\Web-Services\WebService\bin\System.Net.Http.Formatting.dll
+D:\Projects\Web-Services\WebService\bin\System.Web.Http.dll
+D:\Projects\Web-Services\WebService\bin\System.Web.Http.WebHost.dll
+D:\Projects\Web-Services\WebService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Projects\Web-Services\WebService\bin\Newtonsoft.Json.xml
+D:\Projects\Web-Services\WebService\bin\System.Net.Http.Formatting.xml
+D:\Projects\Web-Services\WebService\bin\System.Web.Http.xml
+D:\Projects\Web-Services\WebService\bin\System.Web.Http.WebHost.xml
+D:\Projects\Web-Services\WebService\obj\Release\WebService.csprojResolveAssemblyReference.cache
+D:\Projects\Web-Services\WebService\obj\Release\WebService.dll
+D:\Projects\Web-Services\WebService\obj\Release\WebService.pdb
